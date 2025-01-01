@@ -1,4 +1,4 @@
 # test
 This is my first git repository
 <br>
-Author - Foram Solanki
+Author - Foram Solanki(collage)
